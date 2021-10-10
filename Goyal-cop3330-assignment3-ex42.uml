@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>C:/Users/19548/IdeaProjects/Goyal-cop3330-assignment3-ex42(New)</OriginalElement>
+  <nodes>
+    <node x="266.0" y="0.0">ex42.DataParser</node>
+    <node x="0.0" y="-316.0">ex42.ParseData</node>
+    <node x="5.5" y="196.0">ex42.ParseDataTest</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="ex42.ParseDataTest" target="ex42.ParseData" relationship="DEPENDENCY">
+      <point x="52.5" y="-95.0" />
+      <point x="163.0" y="171.0" />
+      <point x="165.75" y="171.0" />
+      <point x="55.25" y="73.0" />
+    </edge>
+    <edge source="ex42.ParseDataTest" target="ex42.ParseData" relationship="TO_ONE">
+      <point x="-52.5" y="-95.0" />
+      <point x="58.0" y="171.0" />
+      <point x="55.25" y="171.0" />
+      <point x="-55.25" y="73.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic" zoom="1.0" showDependencies="true" x="207.5" y="193.0" />
+  <SelectedNodes>
+    <node>ex42.ParseData</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Constructors</Category>
+    <Category>Fields</Category>
+    <Category>Inner Classes</Category>
+    <Category>Methods</Category>
+    <Category>Properties</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
